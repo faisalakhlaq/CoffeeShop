@@ -1,0 +1,56 @@
+/*------------------ CSS for House -----------------------*/
+#wrapper-house{
+height: 180px;
+width: 180px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.chimny{
+    margin:0 auto;
+    height:30px; 
+    width:30px; 
+    clear:both; 
+    background: red;
+    float:center;
+}
+
+.roof{
+height: 50px;
+width: 180px;
+margin:0 auto;
+float:center;
+background-color:#00CC66;
+}
+
+.house{
+height: 100px;
+width: 180px;
+margin:0 auto;
+float:center;
+background-color:#0099FF;
+}
+
+.window {
+float: left;
+height:30px;
+width:35px;
+margin-left:20px;
+margin-top:10px;
+background-color:black;
+}
+
+.door {
+float: left;
+height:90px;
+width:35px;
+margin-left:20px;
+margin-top:10px;
+background-color:red;
+}
+
+.door p{
+font-family:tahoma;
+font-size:8px;
+margin-top:20px;
+}
