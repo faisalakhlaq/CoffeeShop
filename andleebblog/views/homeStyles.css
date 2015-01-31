@@ -1,0 +1,34 @@
+body {
+    background: #f2f9fe;
+    margin: 0;
+    padding: 0;
+}
+#header{
+	width:100%;
+	height:100px;
+	text-align:center;
+}
+#header h1{
+	display: inline-block;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+.tabs {
+    background: pink;
+    clear: both;
+    margin: 5px auto 5px auto;
+    display: table;
+    width: auto;
+}
+.pageLink {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius:50%;
+    float: left;
+    line-height:200px;
+    text-align: center;
+    vertical-align: middle;
+    background: grey;
+    box-shadow: 10px 10px 5px #888888;
+    cursor: pointer;
+}
